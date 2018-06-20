@@ -1,7 +1,4 @@
-みんなでリクルートの問題やってみよう
+環境設定
+conda 4.5.4
+`$ conda env create -f=recruit_py36.yml`
 
-頑張るぞー！
-
-
-
-えいえいおー
